@@ -1,0 +1,52 @@
+name: facebook
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+    uses-material-design: true
+
+    assets:
+
+          - assets/images/Profile image.png
+          - assets/images/Ellipse.png
+          - assets/images/Oval.png
+          - assets/images/Oval@2x.png
+          - assets/images/Person (1).png
+          - assets/images/ai-generated-nature-landscapes-background-free-photo.jpg
+          - assets/images/depositphotos_36220949-stock-photo-beautiful-landscape.jpg
+          - assets/images/istockphoto-1413416824-612x612.jpg
+          - assets/images/images.jpg
+          - assets/images/images (1).jpg
+          - assets/images/Images (2).jpg
+          - assets/images/images (3).jpg
+          - assets/images/images (4).jpg
+          - assets/images/Rectangle 29.png
+          - assets/images/Rectangle 483.png
+          - assets/images/Rectangle 484.png
+          - assets/images/Rectangle 485.png
+          - assets/images/Avatar.png
+          - assets/images/Avatar (1).png
+          - assets/images/Rectangle 69.png
+          - assets/images/Rectangle 70.png
+          - assets/images/Rectangle 56.png
+          - assets/images/Rectangle 68.png
+
+
